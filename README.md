@@ -1,5 +1,9 @@
 # react18+vite SSR
 
+本项目旨在最低成本的改造你的 React 项目支持 SSR，Nextjs 对你的项目改动太大了，特别是想做轻量级的 SSR，建议使用该套方案！
+
+# 运行说明
+
 执行`yarn build`会打包`spa`应用[dist]和`ssr`应用[dist-ssr]两个项目
 
 启动`node server/index.js` 启动服务端 server，访问: http://localhost:3030 即可，推荐使用 pm2 启动
