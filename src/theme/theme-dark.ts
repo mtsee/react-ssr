@@ -1,0 +1,18 @@
+export const themeDark: Record<string, string> = {
+  '--theme-gary1': '#090909',
+  '--theme-gray2': '#0A0A0A',
+  '--theme-gray3': '#1A1A1A',
+  '--theme-gray4': '#202020',
+  '--theme-gray5': '#333333',
+  '--theme-gray6': '#606060',
+  '--theme-gray7': '#A0A0A0',
+  '--theme-gray8': '#C0C0C0',
+  '--theme-gray9': '#EAE9E8',
+  '--theme-gray10': '#f8f7f6',
+  '--theme-gray11': '#111111',
+  '--theme-bg': '#1A1A1A',
+  '--theme-mask-1': 'rgba(255, 255, 255, 0.3)',
+  '--theme-mask-2': 'rgba(255, 255, 255, 0.1)',
+  '--theme-mask-3': 'rgba(0, 0, 0, 0.3)',
+  '--theme-mask-4': 'rgba(0, 0, 0, 0.6)',
+};
